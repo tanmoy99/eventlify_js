@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(237, 238, 239);
+    
+    
+}
+
+.btn {
+    background-color: #037661;
+    color: white;
+}
+
+
+.background{
+    background-image: url("images/fireworkss.png");
+    
+}
+
+
+.createPlan {
+    margin-bottom: -30px !important;
+    position: relative;
+    z-index: 2;
+
+}
+
+.filterEvent {
+    /* background: rgba(136, 147, 197, 0.499); */
+    /* background: linear-gradient(131deg, rgba(136, 147, 197, 0.681) 0%, rgba(93, 199, 223, 0.664) 100%); */
+    /* background: linear-gradient(131deg, rgba(92, 112, 199, 0.536) 0%, rgba(21, 98, 117, 0.462) 100%); */
+    /* background-color: #8893c5c1; */
+    /* background-color: #00CED1;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px); */
+    background: rgb(228,33,33);
+    background: linear-gradient(90deg, rgba(240, 45, 11, 0.362) 0%, rgba(228, 92, 14, 0.835) 100%);
+}
+
+
+.nav-color {
+    background: linear-gradient(131deg, rgba(92, 112, 199, 0.536) 0%, rgba(21, 98, 117, 0.462) 100%);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+
+}
+
+.flickity-page-dots {
+    margin-bottom: -1rem !important;
+}
+
+
